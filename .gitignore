@@ -4,6 +4,7 @@ config.py
 # also ignore my practice files
 API_practice.ipynb
 random_numbers.ipynb
+readmetest.txt
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
